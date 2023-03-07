@@ -15,3 +15,28 @@ h3 {
     font-weight: 200;
     font-size: 40 !important;
 }
+
+h5{
+    text-align: center;
+}
+
+.home-section {
+    display: flex;
+    justify-content: center;
+}
+
+.blurb{
+    margin-top: 4rem;
+    max-width: 90%;
+    justify-content: center;
+    align-content: center;
+    background-color: #00072C;
+    color: white;
+}
+
+.btn-blurb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
