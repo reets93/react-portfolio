@@ -1,23 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header'
+// import Icon from ''
+// import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/Pages/Home/Home'
 
 function App() {
   return (
     <div className="App">
-      <h1> testing</h1>
-      <header className="App-header">
-        <p>
-          testing things <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      {/* <Icon /> */}
+      <Home />        
     </div>
   );
 }

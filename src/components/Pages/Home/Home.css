@@ -1,0 +1,17 @@
+.bio {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 6rem;
+    text-align: left;
+}
+
+h2 {
+    color: #00072C;
+    font-size: 40px !important;
+}
+
+h3 {
+    color: #1e1e1e;
+    font-weight: 200;
+    font-size: 40 !important;
+}
