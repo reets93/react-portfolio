@@ -11,7 +11,7 @@ function Home() {
                             {'\n'} & UX designer</h2>
                     </div>
                     <div className="col-sm-12 col-lg-7">
-                        {/* enter headshot here */}
+                        <img src="https://www.dropbox.com/s/oym3ijwi5epoprx/headshot.png?dl=0" alt="headshot"/>
                     </div>
                 </div>
             </section>
