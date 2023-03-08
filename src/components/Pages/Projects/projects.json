@@ -1,50 +1,56 @@
 [
-    {
-      "id": 1,
-      "title": "Project 1",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    },
-    {
-      "id": 2,
-      "title": "Project 2",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    },
-    {
-      "id": 3,
-      "title": "Project 3",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    },
-    {
-      "id": 4,
-      "title": "Project 4",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    },
-    {
-      "id": 5,
-      "title": "Project 5",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    },
-    {
-      "id": 6,
-      "title": "Project 6",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "description": "Fry Cook",
-      "repo": "https://www.google.com",
-      "deployed": "https://www.google.com"
-    }
+  {
+    "id": 1,
+    "title": "travel2",
+    "image": "../../../assets/p1.png",
+    "description": "HTML, CSS, Server-side APIs, Javascript, JQuery",
+    "repo": "https://github.com/reets93/travel2-holiday-app",
+    "deployed": "https://reets93.github.io/travel2-holiday-app/",
+    "live": "Go to live site"
+  },
+  {
+    "id": 2,
+    "title": "Code Quiz",
+    "image": "../../../assets/m6.png",
+    "description": "HTML, CSS, Javascript",
+    "repo": "https://github.com/reets93/code-quiz",
+    "deployed": "https://reets93.github.io/code-quiz/",
+    "live": "Go to live site"
+  },
+  {
+    "id": 3,
+    "title": "Work Day Planner",
+    "image": "../../../assets/m7.png",
+    "description": "HTML, CSS, Javascript",
+    "repo": "https://github.com/reets93/work-day-planner-app",
+    "deployed": "https://reets93.github.io/work-day-planner-app",
+    "live": "Go to live site"
+  },
+  {
+    "id": 4,
+    "title": "Weather Dashboard App",
+    "image": "../../../assets/m8.png",
+    "description": "HTMl, CSS, Javascript, Server-Side APIs",
+    "repo": "https://github.com/reets93/weather-dashboard-app",
+    "deployed": "https://reets93.github.io/weather-dashboard-app",
+    "live": "Go to live site"
+  },
+  {
+    "id": 5,
+    "title": "ReadMe Generator",
+    "image": "../../../assets/m11.png",
+    "description": "HTML,CSS, Javascript, Node.js",
+    "repo": "https://github.com/reets93/readme-generator",
+    "deployed": "https://drive.google.com/file/d/1z-M_9e8eP9Z3JpN4s5TanTigOEf0TvKH/view",
+    "live": "Video demo"
+  },
+  {
+    "id": 6,
+    "title": "Team Profile Generator",
+    "image": "../../../assets/m12.png",
+    "description": "HTMl, CSS, Javacsript, Node.js",
+    "repo": "https://github.com/reets93/team-profile-generator",
+    "deployed": "https://drive.google.com/file/d/1zfYdvyWUxkdWZnTBl5Aeq1foPMdGj0Li/view",
+    "live": "Video demo"
+  }
 ]

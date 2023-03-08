@@ -9,7 +9,7 @@ function ProjectCard(props) {
         <h5 className="card-title">{props.title}</h5>
         <p className="card-text">{props.description}</p>
         <a href={props.repo} className="btn btn-primary">Github Repository</a>
-        <a href={props.deployed}>Go to live site</a>
+        <a href={props.deployed}>{props.live}</a>
       </div>
     </div>
   )

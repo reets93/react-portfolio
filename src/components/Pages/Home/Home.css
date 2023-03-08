@@ -42,3 +42,8 @@ h5{
     justify-content: center;
     flex-wrap: wrap;
 }
+
+.headshot {
+    height: 90%;
+    justify-content: center;
+}
