@@ -1,5 +1,6 @@
 import React from 'react';
-import { useState, useEffect } from "react";
+import { useState } from "react";
+import './Contact.css'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -15,7 +16,6 @@ function Contact() { // using and referring to code from class on 2nd March
       event.preventDefault();
 
       alert(`Thanks for submitting a contact request ${form.name}. We'll get back to you soon!`)
-
       setForm({
          name: "",
          email: "",
@@ -27,7 +27,9 @@ function Contact() { // using and referring to code from class on 2nd March
    return (
       <div>
          <h1> Get in Touch </h1>
-<form className="form">
+<div className="container">         
+<h6>If you're interested in working together on a project, submit your contact details and I'll get back to you as soon as possible.</h6>
+<form className="form input-fields">
    <input
    value={form.name}
    name="name"
@@ -46,11 +48,20 @@ function Contact() { // using and referring to code from class on 2nd March
    value={form.message}
    name="message"
    onChange={handleInputChange}
-   type="text"
+   type="paragraph"
    placeholder="Write your message here"
    />
    <button className="btn btn-primary" onClick={handleFormSubmit}>Submit</button>
 </form>
+</div>
+
+<div className="socials">
+   <h4>Let's Connect</h4>
+   <h6>Connect with me on LinkedIn and GitHub to follow my work</h6>
+   <button class="btn btn-secondary social-btn" onClick={event =>  window.location.href='https://www.linkedin.com/in/ritafitchett/'} className="btn btn-secondary">LinkedIn</button>
+   <button class="btn btn-secondary social-btn" onClick={event =>  window.location.href='https://github.com/reets93'} className="btn btn-secondary">Github</button>
+
+</div>
       </div>
    )
 }

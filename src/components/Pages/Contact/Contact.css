@@ -1,0 +1,17 @@
+.container {
+max-width: 50%;
+padding: 32px;
+display: block;
+align-content: center;
+justify-content: center
+}
+
+.form {
+    margin-top: 4rem;
+}
+
+.social-btn {
+    margin: 32px;
+    background-color: #00072C;
+    border-color: #00072C;
+}
