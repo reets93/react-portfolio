@@ -1,6 +1,6 @@
 .container {
-max-width: 50%;
-padding: 32px;
+max-width: 60%;
+padding-top: 32px;
 display: block;
 align-content: center;
 justify-content: center
@@ -10,8 +10,23 @@ justify-content: center
     margin-top: 4rem;
 }
 
-.social-btn {
-    margin: 32px;
+
+.btn-secondary{
+    margin:16px;   
     background-color: #00072C;
     border-color: #00072C;
+}
+
+.page-title{
+    margin-bottom: 2rem;
+}
+
+.socials{
+    margin: 2rem;
+}
+
+.col-6 {
+    padding-left: 50px;
+    padding-right:50px;
+    flex-wrap: wrap;
 }
