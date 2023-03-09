@@ -6,13 +6,13 @@
 }
 
 .row {
-align-items: center;
-padding-left: 5%;
-padding-right:5%;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .col-lg-7 {
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 
@@ -27,7 +27,7 @@ h3 {
     font-size: 40 !important;
 }
 
-h5{
+h5 {
     text-align: center;
 }
 
@@ -36,9 +36,9 @@ h5{
     justify-content: center;
 }
 
-.blurb{
-    padding-left:30px;
-    padding-right:30px;
+.blurb {
+    padding-left: 30px;
+    padding-right: 30px;
     margin-bottom: 4rem;
     max-width: 90%;
     justify-content: center;
@@ -48,7 +48,7 @@ h5{
     border-radius: 10px;
 }
 
-.btn-blurb{
+.btn-blurb {
     display: flex;
     align-items: center;
     justify-content: center;

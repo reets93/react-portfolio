@@ -32,19 +32,20 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
 
-.btn-primary{
+.btn-primary {
   background-color: #DD9933;
   border-color: #DD9933;
   margin: 24px;
   align-items: center;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
   background-color: #D07D00;
   border-color: #D07D00;
 }
