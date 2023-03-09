@@ -3,7 +3,7 @@ import '../ProjectCard/projectcard.css'
 
 function ProjectCard(props) {
   return (
-    <div className="card">
+    <div className="card project">
       <img src={props.image} className="card-img-top img-container" alt={props.title} />
       <div className="card-body content">
         <h5 className="card-title">{props.title}</h5>

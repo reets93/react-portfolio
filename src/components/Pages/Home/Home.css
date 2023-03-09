@@ -5,6 +5,16 @@
     text-align: left;
 }
 
+.row {
+align-items: center;
+padding: 20px;
+}
+
+.col-lg-7 {
+    display:flex;
+    justify-content: center;
+}
+
 h2 {
     color: #00072C;
     font-size: 40px !important;
@@ -28,12 +38,13 @@ h5{
 .blurb{
     padding-left:30px;
     padding-right:30px;
-    margin-top: 4rem;
+    margin-bottom: 4rem;
     max-width: 90%;
     justify-content: center;
     align-content: center;
     background-color: #00072C;
     color: white;
+    border-radius: 10px;
 }
 
 .btn-blurb{

@@ -44,11 +44,11 @@ function Contact() { // using and referring to code from class on 2nd March
                      type="email"
                      placeholder="Email"
                   />
-                  <input
+                  <textarea
                      value={form.message}
                      name="message"
                      onChange={handleInputChange}
-                     type="paragraph"
+                     type="text-field"
                      placeholder="Write your message here"
                   />
                   <button className="btn btn-primary" onClick={handleFormSubmit}>Submit</button>

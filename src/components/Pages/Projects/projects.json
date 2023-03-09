@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "travel2",
-    "image": "../../../assets/p1.png",
+    "image": "https://uc77ed08f59e8586c45cc28776fe.previews.dropboxusercontent.com/p/thumb/AB1ieI_QzZ0f6XEL-z0eQPCrcloz1XVCuC2ZmS9MqTJwC-fKVjD6ldybLqq02JNZU7eL-tmvKVFE0wtFgdW5CrOoPOU66sfvNgfMjheh1jlfIrwNiSIMGNQKCR9XVgdAE-nb_1qDWCLQ0c2o86j2cizEkbHwuo0w68pSHhcCPNTnUzWXnW5-6pobL7oRr0L4dglpXSgMfmMy-rBmWh93yNcF5gNuJtIzuGiLGtatXtFayGUsmGDprVLYJqUPVfVwAFEBSXvaT6aZCBw_9mfY8uR2tjRQB4-axkAlcCN-6FvRcBbLPoS30hNmYRulAI5hxFEz3pHTmBaEyQ0eJqtDwPkXqPFhah7jf1vq3PrwUA4nm1nw3fD6d51FUZcjR1dXGu1-kSDJBbCet-Ba_Q3i-v8E4AiyX0zI1_9BMf7KhLDvBw/p.png",
     "description": "HTML, CSS, Server-side APIs, Javascript, JQuery",
     "repo": "https://github.com/reets93/travel2-holiday-app",
     "deployed": "https://reets93.github.io/travel2-holiday-app/",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Code Quiz",
-    "image": "../../../assets/m6.png",
+    "image": "https://uc52474c2444717b19f46e17495c.previews.dropboxusercontent.com/p/thumb/AB3ZPPHqCae9VqEQVlM0_uRllIP3jXjF-UOF5GCfPWVyYEZrV3S5atL49vwJ3Vla7kQFRgmN5XkuKPwKWBOcSq2Q7ZMLok3BfqRzSPexFkL2dxrqbKU1ceqEHygi93UI97reMfPNH5bkE909KtYfuMKpjHb2ewizuWXPpLXHjbnLUEtSeMJNhevYvC14oOq69KUVt6cYO8ERi8nzlQNtl7UGv68Fj2tDi5obHKE8vrj9jxDe-ODLr_YhstfXEXvtqRNsLpIg2dA6ofzaMJW_QQ8t5aQH1XNdSy1sMFRTdcvz3UAJGCCoex8ClasjA78ePHKIA7La1sExRV4yGb5V4J0ynzZwQh-ZY9iXoNoVq_MUAod0JzX2xG_6hilZ0jqOEQI8LuDp1pxueFzat5C2mp2o7N7y8HyvVSojy4qCfBiW7Q/p.png",
     "description": "HTML, CSS, Javascript",
     "repo": "https://github.com/reets93/code-quiz",
     "deployed": "https://reets93.github.io/code-quiz/",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "title": "Work Day Planner",
-    "image": "../../../assets/m7.png",
+    "image": "https://ucffa4cbce5983e6ad1c1861ad31.previews.dropboxusercontent.com/p/thumb/AB1XgGzvSwOQZwB-U6r0qPV8dX3teC245xs_F2eB97RU6USBhpQCJRNSmS1qfx5b97jiHK6PRcZtbN0LHH0I0XTdA_8w-buS5uHieA1JCqItEBnftBBWqAxz3w8irwnJA3XpnwLPav2NP-9A9HkIIgSNwrOc-Bg_5-hFFdH9XoVtKwc2I09YQFrHES3afVChMGD9Hel-LrtmSu8boPiSiq_S0mDuHRWQ5YmDs_VLl0Im26sh64mplpVheFHOW3YOajjhoSUZrydL5fQcCtz62lrV9h0ajTfx7jcXgaQBbWJqlIAueFZ05LRj0iKMMlmAwDW-A46HvhsjQMrH2n-9gJD0l_ALc0TC9SaaEDk4tZNv1ZoJFaexLwJPxnDDwxbh_M8EZ6AwdSJpsK1Joz4XHU8lxBOTQz9m5dvHYuIxJIVamw/p.png",
     "description": "HTML, CSS, Javascript",
     "repo": "https://github.com/reets93/work-day-planner-app",
     "deployed": "https://reets93.github.io/work-day-planner-app",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Weather Dashboard App",
-    "image": "../../../assets/m8.png",
+    "image": "https://uc44a796dddd4e48d75d69949563.previews.dropboxusercontent.com/p/thumb/AB2huLgMPbm77RPfZ0sUmuQW3RgXINbe8qZDiKYC9X939Yvd8x-ykB066iN-n2iz1ZPe2tn0oaBpMgBLa19pEYuMqaTQit3VQWexDthULcV8irkmwhPIiaTPm3AtwzfrmZCJAkMXJ6zHdHGZeT4DApMvFXsSx0oCHYykyIpZjuT9C3FByONnBhG5_n_Zrjs94uW3khbxKeL3StTVrmPSidXyQFkfyC-yZSrn2LPJd_hDHpkWHKupV8yGEQk1qup2q4eg3mlEirZX0DUjqnRDDTsMA9q5OxwBzheHB27t6yl65Vfn08KnygyFu8uBqyf0o8s_SUcWPVgpdnnlZ3ympz8ZQ_I8ajHRutyCcnUryS_YxmSgVTTNZtjrJaU0q6jC9_jOf0WTPa__vCNiDlEA1hyXcvKHDwVDvkajhr2ccvOkEA/p.png",
     "description": "HTMl, CSS, Javascript, Server-Side APIs",
     "repo": "https://github.com/reets93/weather-dashboard-app",
     "deployed": "https://reets93.github.io/weather-dashboard-app",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "ReadMe Generator",
-    "image": "../../../assets/m11.png",
+    "image": "https://uc5b789a8f0916c8e00d6ce98dcf.previews.dropboxusercontent.com/p/thumb/AB1Q12xkRHx8ahoVIs3HbJfUolaC5HabYA0klzUSsF1lWRYHu0xxUGALtkcA6xzT3pRLIVoYbsZ-8udF4fI0CWd9LxwEVhqbLQi6Ire8X6euvhW12R8PbKzVGHYFwqDGluhycTdn6bKn_mE8p61-KC8TfsUSlEiAvZXMhd-2SYSnnM7lpIveH3_B7OoTKIHhkm033BVykuzs6XnpYzntMxQU6HgvW6pdwfHeKw-vXk2he6F5wOb_pUaWIh3JBYnkO9mdTfHKOCAsHg5XshDzjSFdBxAuZ5V4Dq402uVql4YGhgXYQkcRyHA1DvoiYkIqo9PShJyCAtxZxP6rLyiuUcWtpBQupCvSrKlZrstwCtbTTv-D6Ba8Kit-pMPW_5M3zhf-zyC3_UqhlUenXf6GkYovnjBJFegbOJfKgyqv6ITgTQ/p.png",
     "description": "HTML,CSS, Javascript, Node.js",
     "repo": "https://github.com/reets93/readme-generator",
     "deployed": "https://drive.google.com/file/d/1z-M_9e8eP9Z3JpN4s5TanTigOEf0TvKH/view",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "title": "Team Profile Generator",
-    "image": "../../../assets/m12.png",
+    "image": "https://uc955b74a8af0f7b2fd1e7866b30.previews.dropboxusercontent.com/p/thumb/AB3ojvwO1shnoH5ITMYuW2EFT5mET497piVPhWwbOdpzh5Fzut17_nReZVpmUU_WA3Cs0H9QcW1uozsRjAOqNnzM3ZfzvH_cEsPm9I0s93rF-BUjed509-qjz8FEKiF2-N22tTxB8GfV3_CXmuac_tgUwhpjmffWBaKS8hfaA8jYF04_PFOW3YbkYLeOTPvevSzyNn9lRbF9lNt-n74V24TXhhKnggdIVNFkJchJdIsEYoJ6k_8WFpEG5WS9UPUxanMnJyPWvMfHfVRwkWFesokzKD3tdUriLf9Lxnb2WWzskDZhgaM3Oj2XIKNGwXrA5vMYUsTAP7tm2bGCfLQGfJwXZDxCS7zwIQYu-9Bv7AWy8Pa1KLyr4qR-ozYrQdlUPA-Fxw3qzqg8ugw0eW-_YyOjgfGtS5_BMd9ZzOo4Ad9mfA/p.png",
     "description": "HTMl, CSS, Javacsript, Node.js",
     "repo": "https://github.com/reets93/team-profile-generator",
     "deployed": "https://drive.google.com/file/d/1zfYdvyWUxkdWZnTBl5Aeq1foPMdGj0Li/view",

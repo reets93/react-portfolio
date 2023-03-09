@@ -1,7 +1,7 @@
 import React from 'react';
-// import { NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 // import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import './index.css'
+import './header.css'
 
 function Header() {
   return (
@@ -12,10 +12,10 @@ function Header() {
   </button>
   <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div className="navbar-nav">
-      <a className="nav-item nav-link active" href="www.google.com">Home <span class="sr-only"></span></a>
-      <a className="nav-item nav-link" href="www.google.com">Portfolio Gallery</a>
-      <a className="nav-item nav-link" href="www.google.com">CV</a>
-      <a className="nav-item nav-link" href="www.google.com">Get in Touch</a>
+    <NavLink className="nav-item nav-link active" to="/">Home</NavLink>
+    <NavLink className="nav-item nav-link active" to="projects">Projects Gallery</NavLink>
+    <NavLink className="nav-item nav-link active" to="contact">Contact</NavLink>
+    <NavLink className="nav-item nav-link active" to="contact">CV</NavLink>
     </div>
   </div>
 </nav>

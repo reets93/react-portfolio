@@ -1,6 +1,8 @@
+/* code used from class resources - 1 March, activity 7 */
+
 .wrapper {
     padding-top: 50px;
-    background: #ECEFF1;
+    background: white;
     height: 100%;
     display: flex;
     flex-flow: row wrap;

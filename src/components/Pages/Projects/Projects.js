@@ -1,10 +1,10 @@
 import React from 'react';
 import ProjectCard from '../../ProjectCard/ProjectCard';
 import projects from './projects.json';
-import './projects.css'
 
 function Projects() {
     return (<section>
+        <h1 className="page-title"> Projects Gallery </h1>
         <div className='card-group'>
             <ProjectCard
                 title={projects[0].title}
@@ -32,8 +32,8 @@ function Projects() {
                 deployed={projects[2].deployed}
                 live={projects[2].live}
             />
-</div>
-<div className='card-group'>
+        </div>
+        <div className='card-group'>
             <ProjectCard
                 title={projects[3].title}
                 image={projects[3].image}
