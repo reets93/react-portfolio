@@ -12,6 +12,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
+  - [Credits](#credits)
   - [Tests](#tests)
 
 

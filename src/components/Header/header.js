@@ -16,7 +16,7 @@ function Header() {
           <NavLink className="nav-item nav-link active" to="/">Home</NavLink>
           <NavLink className="nav-item nav-link active" to="projects">Projects Gallery</NavLink>
           <NavLink className="nav-item nav-link active" to="contact">Contact</NavLink>
-          <NavLink className="nav-item nav-link active" to="https://www.dropbox.com/s/vknvki83dmb2696/RitaFitchett-CV1-en.pdf?dl=0">CV</NavLink>
+          <NavLink className="nav-item nav-link active" to="https://www.dropbox.com/s/5804tlhwykh7f7g/RitaFitchett%20ux_fewd.pdf?dl=0">CV</NavLink>
         </div>
       </div>
     </nav>

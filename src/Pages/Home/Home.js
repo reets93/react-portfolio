@@ -23,7 +23,7 @@ function Home() {
                         <div className="btn-blurb">
                             <a href="https://www.github.com/reets93" class="btn btn-primary">Github</a>
                             <a href="https://www.linkedin.com/in/ritafitchett" class="btn btn-primary">LinkedIn</a>
-                            <a href="https://www.dropbox.com/s/vknvki83dmb2696/RitaFitchett-CV1-en.pdf?dl=0" class="btn btn-primary">Download CV</a>
+                            <a href="https://www.dropbox.com/s/5804tlhwykh7f7g/RitaFitchett%20ux_fewd.pdf?dl=0" class="btn btn-primary">Download CV</a>
                         </div>
                     </div>
                 </div>
