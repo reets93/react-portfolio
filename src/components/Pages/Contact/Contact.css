@@ -1,32 +1,42 @@
 .container {
-max-width: 60%;
-padding-top: 32px;
-display: block;
-align-content: center;
-justify-content: center
+    max-width: 60%;
+    padding-top: 32px;
+    display: block;
+    align-content: center;
+    justify-content: center
 }
 
 .form {
     margin-top: 4rem;
+    width: 30%;
+    display: inline
 }
 
+input,
+textarea {
+    padding: 10px;
+    margin: 1rem;
+    width: 800px;
+}
 
-.btn-secondary{
-    margin:16px;   
+.btn-secondary {
+    margin: 16px;
     background-color: #00072C;
     border-color: #00072C;
 }
 
-.page-title{
+.page-title {
     margin-bottom: 2rem;
 }
 
-.socials{
+.socials {
     margin: 2rem;
 }
 
 .col-6 {
     padding-left: 50px;
-    padding-right:50px;
+    padding-right: 50px;
     flex-wrap: wrap;
 }
+
+.contact-submit {}

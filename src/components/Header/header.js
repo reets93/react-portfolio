@@ -1,7 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-// import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import './header.css'
+import 'bootstrap/dist/js/bootstrap.min.js'
+
 
 function Header() {
   return (
@@ -15,7 +16,7 @@ function Header() {
     <NavLink className="nav-item nav-link active" to="/">Home</NavLink>
     <NavLink className="nav-item nav-link active" to="projects">Projects Gallery</NavLink>
     <NavLink className="nav-item nav-link active" to="contact">Contact</NavLink>
-    <NavLink className="nav-item nav-link active" to="contact">CV</NavLink>
+    <NavLink className="nav-item nav-link active" to="https://www.dropbox.com/s/vknvki83dmb2696/RitaFitchett-CV1-en.pdf?dl=0">CV</NavLink>
     </div>
   </div>
 </nav>

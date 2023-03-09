@@ -21,9 +21,9 @@ function Home() {
                     <div className="card-body">
                         <h5 className="card-text">I work on web design and development projects, to produce quality and unique websites.</h5>
                         <div className="btn-blurb">
-                            <a href="www.google.com" class="btn btn-primary">Explore my Portfolio</a>
-                            <a href="www.google.com" class="btn btn-primary">Get in Touch</a>
-                            <a href="www.google.com" class="btn btn-primary">Check out my CV</a>
+                            <a href="https://www.github.com/reets93" class="btn btn-primary">Github</a>
+                            <a href="https://www.linkedin.com/in/ritafitchett" class="btn btn-primary">LinkedIn</a>
+                            <a href="https://www.dropbox.com/s/vknvki83dmb2696/RitaFitchett-CV1-en.pdf?dl=0" class="btn btn-primary">Download CV</a>
                         </div>
                     </div>
                 </div>
