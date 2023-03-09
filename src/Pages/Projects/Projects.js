@@ -7,12 +7,12 @@ function Projects() {
         <h1 className="page-title"> Projects Gallery </h1>
         <div className='card-group'>
             <ProjectCard
-                title={projects[0].title}
-                image={projects[0].image}
-                description={projects[0].description}
-                repo={projects[0].repo}
-                deplyed={projects[0].deployed}
-                live={projects[0].live}
+                 title={projects[0].title}
+                 image={projects[0].image}
+                 description={projects[0].description}
+                 repo={projects[0].repo}
+                 deployed={projects[0].deployed}
+                 live={projects[0].live}
             />
 
             <ProjectCard
