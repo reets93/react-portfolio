@@ -1,5 +1,5 @@
 import React from 'react';
-// import ProjectCard from '../../components/ProjectCard/ProjectCard';
+import ProjectCard from '../../components/ProjectCard/ProjectCard';
 import projects from './projects.json';
 import './projects.css'
 
@@ -8,7 +8,7 @@ function Projects() {
         <h1 className="page-title"> Projects Gallery </h1>
 
         <div className='card-group'>
-            <div className="card project">
+            {/* <div className="card project">
                 <img src={require('../../assets/p1.png')} className="card-img-top img-container" alt={projects[0].title} />
                 <div className="card-body content">
                     <h5 className="card-title">{projects[0].title}</h5>
@@ -70,9 +70,9 @@ function Projects() {
                     <a href={projects[5].deployed}>{projects[5].live}</a>
                 </div>
             </div>
-            </div>
+            </div> */}
 
-            {/* <ProjectCard
+            <ProjectCard
                 title={projects[0].title}
                 image={projects[0].image}
                 description={projects[0].description}
@@ -123,7 +123,8 @@ function Projects() {
                 repo={projects[5].repo}
                 deployed={projects[5].deployed}
                 live={projects[5].live}
-            /> */}
+            />
+            </div>
         </section>
     )
 }
