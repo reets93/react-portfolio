@@ -7,6 +7,7 @@ import Projects from './Pages/Projects/Projects'
 import Wrapper from './components/Wrapper/Wrapper';
 import Footer from './components/Footer/Footer'
 
+
 function App() {
   return (
     <Router>

@@ -11,7 +11,7 @@ function Home() {
                             {'\n'} & UX designer</h2>
                     </div>
                     <div className="col-sm-12 col-lg-7">
-                        <img className="headshot" src="https://uc1f267cac7da5a02f8c18c0c461.previews.dropboxusercontent.com/p/thumb/AB2wzPU5KuciXAKhRH5jY1pEMfDxUGa9hAWfEGR3Cz-zGU_XCcm2iMtgPMBZMM52HOktg3dlJ8_n8Lqbtev5Yo3zkq27r1KntDiFDajiTf-ZAqsfvjUed4z8gWMXKMc5VcBG1TynRiHKvKalyvqk3rFckEUbjlbnDmU_34C4LE0DO1k8CMmTNPF2tnl99unf8qC4bPqAtAJOnZEllBO97uNKT0N-7iS8-FCe7_VNDdKJz5dMzKHdQpf6P_-ZE06qo5pvtx9N2EO58PSZK9uShd36lLMUosJGC9Mb_ms5RndJE2CianC7BgjQTDF2Xdn4tagaLDM4JsQ-2Be2eBHkl2rpacgwmikwUT757RBBTQcpbY3JlLEzFY4_zD2vpkoO4gIdCK7dgFOVUOXy5jOBj1fsha0sclDAJnfDtubrOTjOCg/p.png" alt="headshot" />
+                        <img className='headshot' src={require('../../assets/headshot.png')} alt="headshot"/>
                     </div>
                 </div>
             </section>

@@ -27,7 +27,7 @@
   Live deployed link: https://reets93.github.io/react-portfolio/ 
   
   Screenshot home page of portolio 
-  ![screenshot](src/Assets/screenshot.png)
+  ![screenshot](src/assets/screenshot.png)
 
   
   ## License
